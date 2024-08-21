@@ -23,6 +23,3 @@ Run the application, upload a resume image, and input your query to receive inst
 
 ## License
 This project is licensed under the MIT License.
-
-## Contact
-For inquiries, please contact [your-email@example.com].
